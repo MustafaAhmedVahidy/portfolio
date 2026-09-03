@@ -696,7 +696,7 @@ var animateReveal = function() {
 
 $(function(){
 	$(".typed").typed({
-		strings: ["Creative Designer","Front-End Developer","VR Game Developer"],
+		strings: ["I DESIGN","I CODE","I CREATE IMMERSIVE EXPERIENCES"],
 		// Optionally use an HTML element to grab strings from (must wrap each string in a <p>)
 		stringsElement: null,
 		// typing speed

@@ -2283,6 +2283,11 @@ canvas {
     100% { opacity:1; }
 }
 
+.mb-3
+{
+	text-align:center!important;
+}
+
 .secondtagline{
 	padding-top: 20px;
 }

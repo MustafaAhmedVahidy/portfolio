@@ -2328,5 +2328,5 @@ canvas {
 }
 
 .icon-rotate:hover {
-    transform: scaleX(-1);
+    transform: rotate(360deg);
 }

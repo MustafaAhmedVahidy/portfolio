@@ -2323,10 +2323,10 @@ canvas {
 
 
 /* Rotate My Core Capabilities icons on hover */
-img .icon-rotate {
+.icon-rotate {
     transition: transform 0.9s ease;
 }
 
-img .icon-rotate:hover {
+.icon-rotate:hover {
     transform: rotate(360deg);
 }

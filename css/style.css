@@ -2291,3 +2291,32 @@ canvas {
 .secondtagline{
 	padding-top: 20px;
 }
+
+
+
+/* Portfolio Cards */
+.portfolio-item-content {
+    text-align: center;
+    padding: 0 20px;
+}
+
+.portfolio-item-content .portfolio-category {
+    display: block;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+    color: #DBE123;
+}
+
+.portfolio-item-content h3 {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.portfolio-item-content p {
+    font-size: 15px;
+    line-height: 1.6;
+    margin: 0;
+}

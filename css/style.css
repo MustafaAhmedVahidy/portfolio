@@ -2320,3 +2320,13 @@ canvas {
     line-height: 1.6;
     margin: 0;
 }
+
+
+/* Rotate My Core Capabilities icons on hover */
+.feature-v1 .wrap-icon img {
+    transition: transform 0.6s ease;
+}
+
+.feature-v1 .wrap-icon img:hover {
+    transform: rotate(360deg);
+}
